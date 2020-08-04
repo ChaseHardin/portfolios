@@ -1,0 +1,9 @@
+{
+    "get-user": {
+        "id": 1,
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "test-user@email.com",
+        "username": "test-user"
+    }
+}
